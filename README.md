@@ -8,7 +8,5 @@
   <a href="H"> Home:</a>
   <a href="A">About</a>
 </nav>
-  <p>
-    HEHE
-  </p>
+
 </html>
